@@ -1,0 +1,7 @@
+[package]
+name = "prayer-tray"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+salah = "0.7.5"
